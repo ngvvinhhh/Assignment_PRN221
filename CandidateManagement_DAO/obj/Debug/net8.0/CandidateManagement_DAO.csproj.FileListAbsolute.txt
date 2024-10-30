@@ -1,0 +1,15 @@
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\bin\Debug\net8.0\CandidateManagement_DAO.deps.json
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\bin\Debug\net8.0\CandidateManagement_DAO.dll
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\bin\Debug\net8.0\CandidateManagement_DAO.pdb
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.AssemblyInfoInputs.cache
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.AssemblyInfo.cs
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.csproj.CoreCompileInputs.cache
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.dll
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\refint\CandidateManagement_DAO.dll
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.pdb
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\ref\CandidateManagement_DAO.dll
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\CandidateManagement_DAO.csproj.AssemblyReference.cache
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\bin\Debug\net8.0\CandidateManagement_BusinessObject.dll
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\bin\Debug\net8.0\CandidateManagement_BusinessObject.pdb
+C:\Users\gmt\Desktop\_code\prn221\PRN221PE_FA24_TrialTest_NguyenVanVinh\CandidateManagement_DAO\obj\Debug\net8.0\Candidat.6B450154.Up2Date
